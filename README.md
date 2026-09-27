@@ -8,9 +8,9 @@
 
 <!-- ./STATS GRAPH  -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aalukaparathasiddhu-a11y/aalukaparathasiddhu-a11y/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aalukaparathasiddhu-a11y/aalukaparathasiddhu-a11y/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aalukaparathasiddhu-a11y/aalukaparathasiddhu-a11y/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishacpc1905/krishacpc1905/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishacpc1905/krishacpc1905/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/krishacpc1905/krishacpc1905/output/github-snake.svg" />
 </picture>
 
 
@@ -56,8 +56,8 @@
 
 <!-- ./STAT -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aalukaparathasiddhu-a11y&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Krish Prajapati github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalukaparathasiddhu-a11y&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1116" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=krishacpc1905&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Krish Prajapati github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishacpc1905&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1116" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
