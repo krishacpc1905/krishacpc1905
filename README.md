@@ -35,7 +35,7 @@
 
 ### Databases:
 
-
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)&nbsp;
 
 
 ### Cloud & Infra:
