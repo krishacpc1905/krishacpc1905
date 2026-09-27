@@ -57,6 +57,18 @@
 
 
 
+## Competitive Programming
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Kirish-_1905/">
+<img src="https://img.shields.io/badge/Kirish--__1905-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</p>
+
+---
+
 <!-- ./STAT -->
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=krishacpc1905&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Krish Prajapati github stats" />
